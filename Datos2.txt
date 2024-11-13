@@ -1,0 +1,9 @@
+Planeta     Periodo     Distancia
+Mercurio    0.241       0.387	
+Venus       0.615       0.723	
+Tierra      1           1
+Marte       1.8881      1.524	
+Jupiter     11.86       5.204	
+Saturno     29.6        9.58	
+Urano       83.7        19.14	
+Neptuno     165.4       30.2	
