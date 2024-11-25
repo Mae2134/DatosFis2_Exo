@@ -1,0 +1,6 @@
+Exoplaneta         Periodo(años)  Semieje_(UA)
+NN_Ser_(AB)_c      15.49          5.39
+NN_Ser_(AB)_d      7.65           3.36
+Kepler-47_(AB)_b   0.14           0.30
+Kepler-47_(AB)_c   0.83           0.99
+Kepler-47_(AB)_d   0.51           0.70
