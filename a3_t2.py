@@ -13,7 +13,7 @@ def Calculadora_Kepler(distancia, periodo):
         for i in range(len(distancia)):
             c = (distancia[i]**3)
             A_3.append(c)
-        print(f"la distancia al cubo es:\n")
+        print(f"la distancia al cubo es:\n {A_3}\n")
 
         # constante
         K_inv = []
